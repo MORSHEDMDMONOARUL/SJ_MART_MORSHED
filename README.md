@@ -46,7 +46,7 @@
 ### Steps to Run
 
 1. **Clone the Repository**:
-   \\\ash
+   \\bash
    git clone https://github.com/<your-github-username>/SJ_MART_MORSHED.git
    cd SJ_MART_MORSHED
    \\\
