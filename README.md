@@ -84,7 +84,6 @@ This project uses the following dependencies:
 ## Author
 
 **MORSHED MD MONOARUL**  
-- **ID**: 22012874  
 - **Project Name**: SJ_MART_MORSHED
 
 ---
